@@ -1,0 +1,83 @@
+{
+  "success": true,
+  "token": "11111",
+  "data": [
+    {
+      "name": "home",
+      "label": "home",
+      "index": "home",
+      "children": []
+    },
+    {
+      "name": "1",
+      "label": "表格列表",
+      "index": "1",
+      "children": [
+        {
+          "name": "11",
+          "label": "基础表格",
+          "index": "11",
+          "children": [
+            {
+              "name": "baseTable",
+              "label": "baseTable",
+              "index": "baseTable",
+              "children": []
+            },
+            {
+              "name": "baseTable01",
+              "label": "baseTable01",
+              "index": "baseTable01",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "11001",
+          "label": "基础表格001",
+          "index": "11001",
+          "children": [
+            {
+              "name": "baseTable001",
+              "label": "baseTable001",
+
+              "index": "baseTable001",
+              "children": []
+            },
+            {
+              "name": "baseTable01001",
+              "label": "baseTable01001",
+              "index": "baseTable01001",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "demo11",
+      "label": "demo",
+      "index": "demo11",
+      "children": [
+        {
+          "name": "demo1",
+          "label": "demo1",
+          "index": "demo1",
+          "children": []
+        },
+        {
+          "name": "demo2",
+          "label": "demo2",
+          "index": "demo2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "test",
+      "label": "test",
+      "index": "test",
+      "children": []
+    }
+  ]
+}
